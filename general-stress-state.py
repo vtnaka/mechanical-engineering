@@ -6,7 +6,6 @@ import matplotlib.pyplot as plt
 main = Tk()
 
 def getDados():
-
     # Tensões normais
     sx1 = float(sx.get())
     sy1 = float(sy.get())
@@ -72,7 +71,6 @@ def getDados():
     plt.gca().legend(loc='center left', bbox_to_anchor=(1, 0.5))
     plt.grid()
     plt.show()
-
 
 # Propriedades da janela
 main.title("Estado Triplo de Tensões")
