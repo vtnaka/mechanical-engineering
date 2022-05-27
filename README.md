@@ -4,4 +4,7 @@ A place to save some code that I implemented throughout engineering school, cove
 - Materials Strength
 - Welding Statistical Analysis
 - Power Thermal Systems
-Mainly, the objective is just to store the files ina  repository, that I can revisit anytime in the future.
+
+The primary languages and softwares that I worked with are Python, Matlab and EES (Engineering Equation Solver).
+
+Mainly, the objective is just to store the files in a repository, that I can revisit anytime in the future.
