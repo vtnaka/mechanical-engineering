@@ -1,6 +1,6 @@
 #include <Servo.h>
 
-String textoRecebido = ""; // initilization of command string
+String textoRecebido = ""; // initilizing of command string
 unsigned long delay1 = 0; // unsigned long: stores bigger variables, 32 bits (4 bytes), doesn't work with negative numbers
 
 //Servo pins
