@@ -4,6 +4,6 @@ This repository contains some code that I implemented throughout engineering sch
 - Heat Transfer and Thermodynamics
 - Power Thermal Systems
 - Welding Statistical Analysis
-and some other topics
+and some other courses.
 
 The primary languages and softwares that I worked with are Python, Matlab, EES (Engineering Equation Solver) and some Arduino code.
