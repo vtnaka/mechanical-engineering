@@ -1,9 +1,9 @@
-# Mechanical Engineering Code Library
+# Mechanical Engineering Code Repository
 This repository contains some code that I implemented throughout engineering school, covering:
-- Heat Transfer and Thermodynamics
 - Materials Strength
-- Welding Statistical Analysis
+- Heat Transfer and Thermodynamics
 - Power Thermal Systems
+- Welding Statistical Analysis
+and some other topics
 
-The primary languages and softwares that I worked with are Python, Matlab and EES (Engineering Equation Solver).
-Mainly, the objective is just to store the files in a repository, that I can revisit anytime in the future.
+The primary languages and softwares that I worked with are Python, Matlab, EES (Engineering Equation Solver) and some Arduino code.
