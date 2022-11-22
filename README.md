@@ -1,5 +1,5 @@
 # Mechanical Engineering Code Library
-A place to save some code that I implemented throughout engineering school, covering:
+This repository contains some code that I implemented throughout engineering school, covering:
 - Heat Transfer and Thermodynamics
 - Materials Strength
 - Welding Statistical Analysis
